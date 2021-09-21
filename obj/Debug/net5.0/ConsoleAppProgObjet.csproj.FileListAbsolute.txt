@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.exe
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.deps.json
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.runtimeconfig.json
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.dll
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ref\ConsoleAppProgObjet.dll
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\bin\Debug\net5.0\ConsoleAppProgObjet.pdb
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.dll
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ref\ConsoleAppProgObjet.dll
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.pdb
+C:\Users\Ivan\source\repos\ConsoleAppProgObjet\obj\Debug\net5.0\ConsoleAppProgObjet.genruntimeconfig.cache
